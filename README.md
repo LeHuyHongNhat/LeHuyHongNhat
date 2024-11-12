@@ -6,29 +6,7 @@
 
 ## 🎓 About Me
 
-I'm an AI Engineering student at Posts and Telecommunications Institute of Technology (PTIT), passionate about Machine Learning, Deep Learning, and solving real-world problems through AI applications. Currently maintaining a GPA of 7.12/10, I'm actively seeking internship opportunities to apply my knowledge in a professional environment.
-
-## 🚀 Featured Projects
-
-### 🖼️ Image Classification with ResNet on CIFAR-10
-- Implemented ResNet and CNN architectures achieving 97% accuracy
-- Applied optimization techniques including Learning Rate Scheduling and Data Augmentation
-- Deployed and optimized model performance on Kaggle
-
-### 😊 Sentiment Analysis using PhoBERT on UIT-VSFC Dataset
-- Utilized PhoBERTbase model achieving 93.2% accuracy in sentiment classification
-- Implemented advanced optimization techniques
-- Successfully deployed on Kaggle with performance optimization
-
-### 🤖 Fast Food Customer Service Chatbot
-- Developed a neural network-based chatbot with 2 hidden layers
-- Enhanced prediction quality using Word2Vec and Attention Mechanism
-- Automated customer service inquiry responses
-
-### 💊 Healthcare Domain LLM Chatbot
-- Built RAG Chatbot using LangChain with Docker deployment
-- Implemented Prompt Engineering for improved response accuracy
-- Developed vector database for precise data retrieval and responses
+I'm an AI Engineering student at Posts and Telecommunications Institute of Technology (PTIT), passionate about Machine Learning, Deep Learning, and solving real-world problems through AI applications.
 
 ## 💻 Technical Skills
 
@@ -52,19 +30,6 @@ I'm an AI Engineering student at Posts and Telecommunications Institute of Techn
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-## 🌟 Specializations
-- Natural Language Processing (NLP)
-- Computer Vision
-- Machine Learning
-- Deep Learning
-- Data Science
-
-## 🤝 Soft Skills
-- Strong English proficiency in reading, listening, and writing
-- Excellent team collaboration and leadership
-- Effective communication and interpersonal skills
-- Active contributor in team projects
 
 ## 📫 Get in Touch
 - Email: nhat050403@gmail.com
