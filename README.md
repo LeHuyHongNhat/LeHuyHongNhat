@@ -23,19 +23,19 @@ I'm an AI Engineering student at Posts and Telecommunications Institute of Techn
 
 <p align="center">
   <a href="https://github.com/LeHuyHongNhat/LLM-RAG-Chatbot-with-LangChain">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeHuyHongNhat&repo=CIFAR10-Classification&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeHuyHongNhat&repo=LLM-RAG-Chatbot-with-LangChain&theme=radical" />
   </a>
   <a href="https://github.com/LeHuyHongNhat/Sentiment_Analysis_Using_PhoBert_Trained">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeHuyHongNhat&repo=Sentiment-Analysis-Vietnamese&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeHuyHongNhat&repo=Sentiment_Analysis_Using_PhoBert_Trained&theme=radical" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/LeHuyHongNhat/MachineLearning">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeHuyHongNhat&repo=Chatbot-FastFood&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeHuyHongNhat&repo=MachineLearning&theme=radical" />
   </a>
   <a href="https://github.com/LeHuyHongNhat/IOT_Dashboard">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeHuyHongNhat&repo=Healthcare-Chatbot&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeHuyHongNhat&repo=IOT_Dashboard&theme=radical" />
   </a>
 </p>
 
