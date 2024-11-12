@@ -3,10 +3,41 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lenhat543-it)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhat050403@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeHuyHongNhat)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your.profile)
 
 ## 🎓 About Me
-
 I'm an AI Engineering student at Posts and Telecommunications Institute of Technology (PTIT), passionate about Machine Learning, Deep Learning, and solving real-world problems through AI applications.
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeHuyHongNhat&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeHuyHongNhat&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeHuyHongNhat&theme=radical" />
+</p>
+
+## 🏆 Popular Repositories
+
+<p align="center">
+  <a href="https://github.com/LeHuyHongNhat/CIFAR10-Classification">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeHuyHongNhat&repo=CIFAR10-Classification&theme=radical" />
+  </a>
+  <a href="https://github.com/LeHuyHongNhat/Sentiment-Analysis-Vietnamese">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeHuyHongNhat&repo=Sentiment-Analysis-Vietnamese&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LeHuyHongNhat/Chatbot-FastFood">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeHuyHongNhat&repo=Chatbot-FastFood&theme=radical" />
+  </a>
+  <a href="https://github.com/LeHuyHongNhat/Healthcare-Chatbot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeHuyHongNhat&repo=Healthcare-Chatbot&theme=radical" />
+  </a>
+</p>
 
 ## 💻 Technical Skills
 
@@ -35,6 +66,9 @@ I'm an AI Engineering student at Posts and Telecommunications Institute of Techn
 - Email: nhat050403@gmail.com
 - LinkedIn: [lenhat543-it](https://linkedin.com/in/lenhat543-it)
 - Phone: +84949794366
+- Facebook: https://www.facebook.com/profile.php?id=100053341338115
+## 🌐 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=LeHuyHongNhat&color=brightgreen&style=for-the-badge)
 
 ---
 ⭐️ From [LeHuyHongNhat](https://github.com/LeHuyHongNhat)
