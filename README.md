@@ -1,12 +1,128 @@
-# 👋 Hello, I'm Lê Huy Hồng Nhật!
+# 👋 Hi, I'm Lê Huy Hồng Nhật
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lenhat543-it)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhat050403@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeHuyHongNhat)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your.profile)
+<p align="center">
+  <a href="https://linkedin.com/in/lenhat543-it">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nhat050403@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/LeHuyHongNhat">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100053341338115">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
 
-## 🎓 About Me
-I'm an AI Engineering student at Posts and Telecommunications Institute of Technology (PTIT), passionate about Machine Learning, Deep Learning, and solving real-world problems through AI applications.
+---
+
+## 🚀 About Me
+
+AI Engineer passionate about:
+
+* Large Language Models (LLMs)
+* RAG Systems & AI Agents
+* Machine Learning & Deep Learning
+* AI Infrastructure & Deployment
+* LLMOps / MLOps
+* Real-world AI Applications
+
+Currently:
+
+* 🎓 AI Engineering Student at PTIT
+* 🧠 Research Consultant at WorldQuant BRAIN
+* 🔬 Building AI systems focused on production reliability, evaluation, and scalability
+
+I enjoy transforming research ideas into deployable AI products with strong engineering practices.
+
+---
+
+## 🏆 Featured Projects
+
+### 🔹 LLM RAG Chatbot with LangChain
+
+Production-ready RAG chatbot using LangChain, vector databases, embeddings, retrieval pipelines, and LLM orchestration.
+
+**Tech Stack:**
+Python • LangChain • Vector DB • RAG • LLMOps • Docker
+
+🔗 Repository:
+https://github.com/LeHuyHongNhat/LLM-RAG-Chatbot-with-LangChain
+
+---
+
+### 🔹 Vietnamese Sentiment Analysis with PhoBERT
+
+Built sentiment analysis models using PhoBERT for Vietnamese NLP tasks.
+
+**Tech Stack:**
+Python • PyTorch • PhoBERT • NLP • Deep Learning
+
+🔗 Repository:
+https://github.com/LeHuyHongNhat/Sentiment_Analysis_Using_PhoBert_Trained
+
+---
+
+### 🔹 Machine Learning Collection
+
+Collection of machine learning implementations, experiments, and algorithm practices.
+
+**Tech Stack:**
+Python • Scikit-learn • TensorFlow • Data Analysis
+
+🔗 Repository:
+https://github.com/LeHuyHongNhat/MachineLearning
+
+---
+
+### 🔹 IoT Dashboard
+
+Dashboard system for monitoring IoT devices and real-time data visualization.
+
+**Tech Stack:**
+Python • Dashboard • IoT • Data Visualization
+
+🔗 Repository:
+https://github.com/LeHuyHongNhat/IOT_Dashboard
+
+---
+
+## 💻 Technical Skills
+
+### Languages
+
+* Python
+* Java
+* C++
+
+### AI / ML
+
+* PyTorch
+* TensorFlow
+* Scikit-learn
+* Keras
+* NLP
+* LLMs
+* RAG
+* AI Agents
+
+### Databases
+
+* MySQL
+* MongoDB
+* SQL Server
+* Neo4j
+
+### Tools & Infrastructure
+
+* Git
+* Docker
+* Linux
+* Vector Databases
+* LangChain
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -19,56 +135,25 @@ I'm an AI Engineering student at Posts and Telecommunications Institute of Techn
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeHuyHongNhat&theme=radical" />
 </p>
 
-## 🏆 Popular Repositories
+---
 
-<p align="center">
-  <a href="https://github.com/LeHuyHongNhat/LLM-RAG-Chatbot-with-LangChain">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeHuyHongNhat&repo=LLM-RAG-Chatbot-with-LangChain&theme=radical" />
-  </a>
-  <a href="https://github.com/LeHuyHongNhat/Sentiment_Analysis_Using_PhoBert_Trained">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeHuyHongNhat&repo=Sentiment_Analysis_Using_PhoBert_Trained&theme=radical" />
-  </a>
-</p>
+## 📫 Contact
 
-<p align="center">
-  <a href="https://github.com/LeHuyHongNhat/MachineLearning">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeHuyHongNhat&repo=MachineLearning&theme=radical" />
-  </a>
-  <a href="https://github.com/LeHuyHongNhat/IOT_Dashboard">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeHuyHongNhat&repo=IOT_Dashboard&theme=radical" />
-  </a>
-</p>
-
-## 💻 Technical Skills
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Frameworks & Libraries
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-## 📫 Get in Touch
-- Email: nhat050403@gmail.com
-- LinkedIn: [lenhat543-it](https://linkedin.com/in/lenhat543-it)
-- Phone: +84949794366
-- Facebook: https://www.facebook.com/profile.php?id=100053341338115
-## 🌐 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=LeHuyHongNhat&color=brightgreen&style=for-the-badge)
+* 📧 Email: [nhat050403@gmail.com](mailto:nhat050403@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/lenhat543-it
+* 💻 GitHub: https://github.com/LeHuyHongNhat
+* 📱 Phone: +84 949 794 366
 
 ---
-⭐️ From [LeHuyHongNhat](https://github.com/LeHuyHongNhat)
+
+## 🌟 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LeHuyHongNhat&color=brightgreen&style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/LeHuyHongNhat">LeHuyHongNhat</a>
+</p>
